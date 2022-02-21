@@ -1,6 +1,6 @@
 /* eslint-disable */
 import Library from "./modules/library.js";
-import navigation from "./modules/navbar.js";
+import navigation  from "./modules/navbar.js";
 /* eslint-enable */
 
 import { DateTime } from './node_modules/luxon/src/luxon.js';
